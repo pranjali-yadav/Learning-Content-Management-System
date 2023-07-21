@@ -41,6 +41,7 @@
 				<li class="nav-item" data-bs-toggle="tooltip" data-bs-animation="false" data-bs-placement="bottom" data-bs-original-title="Corporate Trainings">
 					<span><a class="nav-link" href="#"><i class="fal fa-chalkboard-user me-1"></i> Corporate Training</a></span>
 				</li>
+				
 			</ul>
 			<div class="d-flex align-items-center justify-content-center">
 				<!-- <div class="navbar-nav ms-2"> 
